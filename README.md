@@ -12,7 +12,8 @@ For the first version, I focused on Under Armour's annual report and extracted k
 - selling/general/administrative expensives
 - income from operations
 - net income
-After Camelot extracted the table, I used pandas to filter only relevant financial rows, clean accounting-style values such as parantheses for losses, and reshpae the data from a report-style table into a usable analysis-ready format.
+
+ After Camelot extracted the table, I used pandas to filter only relevant financial rows, clean accounting-style values such as parantheses for losses, and reshpae the data from a report-style table into a usable analysis-ready format.
 
 
 
