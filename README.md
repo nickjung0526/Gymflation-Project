@@ -18,3 +18,16 @@
   4) **Volatility Smoothing**: Applied a 4-quarter rolling average to all Year-over-Year (YoY) growth calculations, effectively mitigating the violent seasonal spikes inherent in raw quarterly retail data to reveal true underlying trends
 
 ## Key Analytical Insights
+<img width="1088" height="316" alt="image" src="https://github.com/user-attachments/assets/030b893f-b3e3-4060-bd97-37a7aaf2093d" />
+
+#### From 2021 - 2025, the mean average each category saw in YoY:
+- **Apparel**: 107.73%
+- **Consumables & Supplements**: 123.13%
+- **Gyms**: 148.40%
+- **Wearables**: 86.06%
+
+#### From 2025-Now, the mean average each category saw in YoY:
+- **Apparel**: -10.38%
+- **Consumables & Supplements**: -3.23%
+- **Gyms**: -43.30%
+- **Wearables**: 43.46%
